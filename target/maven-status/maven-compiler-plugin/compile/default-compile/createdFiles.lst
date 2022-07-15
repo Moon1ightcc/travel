@@ -1,0 +1,14 @@
+com\itfxp\travel\util\Md5Util.class
+com\itfxp\travel\util\JDBCUtils.class
+com\itfxp\travel\util\UuidUtil.class
+com\itfxp\travel\util\MailUtils.class
+com\itfxp\travel\util\JedisUtil.class
+com\itfxp\travel\domain\RouteImg.class
+com\itfxp\travel\domain\Seller.class
+com\itfxp\travel\domain\User.class
+com\itfxp\travel\web\servlet\CheckCodeServlet.class
+com\itfxp\travel\domain\Route.class
+com\itfxp\travel\util\MailUtils$1.class
+com\itfxp\travel\domain\Category.class
+com\itfxp\travel\domain\ResultInfo.class
+com\itfxp\travel\domain\Favorite.class
